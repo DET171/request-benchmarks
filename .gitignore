@@ -1,0 +1,4 @@
+node_modules
+rs/target
+haskell/main*
+!haskell/main.hs

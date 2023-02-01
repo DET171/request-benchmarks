@@ -1,2 +1,3 @@
-const res = await fetch('https://codebreaker.xyz/rankings');
-const text = await res.text();
+for (let i = 0; i < 10; i++) {
+	await fetch('https://dummyjson.com/products/1');
+}

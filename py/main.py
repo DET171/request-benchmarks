@@ -1,4 +1,4 @@
 import requests
 
-for _ in range(10):
-  requests.get('https://dummyjson.com/products/1')
+for i in range(10):
+  requests.get(f'https://dummyjson.com/products/{i}')
